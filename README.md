@@ -2,10 +2,11 @@
 
 ## Overview
 
-Edward here. I’ve built a simple version of OpenAI's voice functionality using free APIs. This demo lets you talk, listen, and converse with LLMs. Original blog post is here: - **Blog:** [Blog Post](https://tyingshoelaces.com/blog/ai-voice-generation)
+A simple version of OpenAI's voice functionality using free APIs. This demo lets you talk, listen, and converse with LLMs. 
+Original blog post is here: - **Blog:** [Blog Post](https://tyingshoelaces.com/blog/ai-voice-generation)
 Youtube video is here: [YouTube Video](https://youtu.be/3zPeOpOEmyQ)
 
-Feel free to play around and tell me what you think!
+Feel free to play around!
 
 ## Tech Stack
 
