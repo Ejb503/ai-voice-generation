@@ -1,0 +1,10 @@
+.circle {
+  background-image: url("/profile-pic.png");
+  background-size: cover;
+  background-position: center;
+  background-color: white;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  transition: transform 0.2s ease-in-out;
+}
