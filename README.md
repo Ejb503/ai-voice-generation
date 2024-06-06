@@ -45,7 +45,7 @@ I built a demo where you can:
 
 ## Links
 
-- **Demo:** [AI Voice Generation Demo](https://tyingshoelaces.com/ai-voice-generation-demo)
+- **Demo:** [AI Voice Generation Demo](https://tyingshoelaces.com/demo/ai-voice-generation)
 - **GitHub Repository:** [GitHub](https://github.com/Ejb503/ai-voice-generation)
 - **Video:** [YouTube Video](https://youtu.be/3zPeOpOEmyQ)
 - **Blog:** [Blog Post](https://tyingshoelaces.com/blog/ai-voice-generation)
