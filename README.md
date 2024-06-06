@@ -1,4 +1,4 @@
-This is a free ai voice generator demo. We generate voice from text, using Deepmind and Groq.
+This is a free ai voice generator demo. We generate voice from text, using DeepGram and Groq.
 
 ## Getting Started
 
