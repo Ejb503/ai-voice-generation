@@ -1,4 +1,3 @@
-```markdown
 # AI Powered Voice Chat Demo
 
 ## Overview
@@ -54,4 +53,3 @@ I built a demo where you can:
 ---
 
 Edward Ejb503, [Tying Shoelaces Blog](https://tyingshoelaces.com)
-```
