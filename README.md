@@ -5,12 +5,10 @@
 
 ## Overview
 
-<<<<<<< HEAD
 This is a simple version of OpenAI's voice functionality using free (or trial) APIs. This demo lets you talk, listen, and converse with LLMs. Groq and Deepmind to reduce latency as much as possible.
 
 =======
 A simple version of OpenAI's voice functionality using free APIs. This demo lets you talk, listen, and converse with LLMs. 
->>>>>>> 988a2bbe4a4731295a7e5237b243642978d8e36d
 Original blog post is here: - **Blog:** [Blog Post](https://tyingshoelaces.com/blog/ai-voice-generation)
 Youtube video is here: [YouTube Video](https://youtu.be/3zPeOpOEmyQ)
 
